@@ -16,6 +16,6 @@ This project aims to assist learners and educators in evaluating spoken English 
 - ✍️ **Transcription:** Converts speech to text using Google Speech Recognition
 - 📚 **Grammar Evaluation:** Uses NLP and transformer models (like BERT) for grammar scoring
 - 📈 **Feedback Report:** Provides a grammar score and highlights common grammatical errors
-- 📊 **Dataset:** Trained and tested using a publicly available dataset on [Kaggle](https://www.kaggle.com/) *(insert your dataset link)*
+- 📊 **Dataset:** Trained and tested using a publicly available dataset on [Kaggle](https://www.kaggle.com/)
 
 ---
